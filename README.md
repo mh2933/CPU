@@ -12,6 +12,7 @@ CPU konstruktion i inbyggda system 1
   Storleken på de olika minnena var svårt att greppa och att det var en CPU på en CPU blev lite kortslutning 
   i hjärnan.
   Svårt att veta arbetssättet och hur man angriper så mycket kod på ett strukturerat sätt.  
+  Försökte få till tre leds med inline assemblerkod men det gick bara med en led tyvärr.
   Lätt var nog inget.
 
 3.Vad hade ni velat ha lärt mer innan peojektet?
