@@ -20,4 +20,4 @@ CPU konstruktion i inbyggda system 1
 
 4.Övriga kommentarer?
   Det har varit intensivt i denna kurs men kul det kommer ta en stund att smälta allt, men nu ska det bli skönt att ta lite ledigt och köra kod med något lägre tempo en stund iaf tills det är påt 
-  igen.     
+  igen.  
